@@ -13,6 +13,7 @@ MIRROR_SITES=( \
 	"www.swrb.com" \
 	"www.cmfnow.com" \
         "www.gracegems.org" \
+        "www.reformedbooksonline.com" \
 )
 
 if [ -d "$CURRENT_DIR" ]; then
